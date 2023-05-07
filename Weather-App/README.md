@@ -1,2 +1,2 @@
 # Weather-App
-A small weather app for window, like the one in the taskbar
+A small weather app for windows, like the one in the taskbar
