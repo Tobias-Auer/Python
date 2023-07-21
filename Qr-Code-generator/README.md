@@ -1,3 +1,4 @@
 # Qr-Code-generator
 
-Create your own personal Qr code. You can set your favorite color, adjust the size, add pictures and a lot more features available.
+
+Create your own personal Qr code. You can set your favorite color, customize the size, add images and use many more features....
